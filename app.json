@@ -1,0 +1,37 @@
+{
+  "expo": {
+    "name": "TickUpTask",
+    "slug": "TickUpTask",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/tickupapp_logo.jpeg",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "splash": {
+      "image": "./assets/tickupapp_logo.jpeg",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff",
+      "borderRadius": "50"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/tickupapp_logo.jpeg",
+        "backgroundColor": "#ffffff"
+      }
+    },
+    "web": {
+      "favicon": "./assets/tickupapp_logo.jpeg"
+    },
+    "plugins": [
+      [
+        "expo-font",
+        {
+          "fonts": ["./assets/fonts/Poppins-Bold.ttf"]
+        }
+      ]
+    ]
+  }
+}
