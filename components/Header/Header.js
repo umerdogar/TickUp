@@ -8,14 +8,14 @@ const Header = ({ title, profile, back, onBackPress }) => {
         <Image
           source={require("../../assets/images/Profile.png")}
           style={styles.profile}
-          testID="profile-image" // Added for testing
+          testID="profile-image"
         />
       )}
       {back && (
         <TouchableOpacity
           onPress={onBackPress}
           hitSlop={{ top: 10, bottom: 20, left: 20, right: 20 }}
-          testID="back-button" // Added for testing
+          testID="back-button"
         >
           <Image
             source={require("../../assets/images/ArrowLeft.png")}
