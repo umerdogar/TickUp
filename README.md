@@ -47,3 +47,10 @@ Jest: For Testing
 Testing:
 For testing put npm test to see all the test that are in testing folder.
 
+![Splash](https://github.com/user-attachments/assets/039e995e-8e91-4152-bca6-88facb79c021)
+![StockList](https://github.com/user-attachments/assets/3de1de31-7c1a-4403-81db-c4e12c8ae999)
+![StockUp](https://github.com/user-attachments/assets/e7121ad5-1271-42b9-b066-fa26db49a6ee)
+![StockDown](https://github.com/user-attachments/assets/50416428-4135-426a-90bf-3b2fdc881c90)
+
+
+
